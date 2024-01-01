@@ -1,5 +1,7 @@
 # kafka-python-producer-pool
-An implementation of a Producer pool for the kafka-python library as articulated in my article on [KafkaProducer connection pool in Python]()
+An implementation of a Producer pool for the kafka-python library as articulated in my two-part article on KafkaProducer connection pool in Python:
+- [Part 1](https://blog.lordsarcastic.dev/kafkaproducer-connection-pool-in-python-part-1)
+- [Part 2](https://blog.lordsarcastic.dev/kafkaproducer-connection-pool-in-python-part-2)
 
 ## Structure
 The project contains two folders:
