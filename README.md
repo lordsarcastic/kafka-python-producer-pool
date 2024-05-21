@@ -11,7 +11,7 @@ The project contains two folders:
 
 
 ## Tests
-As highlighted in the article, there is only a 50% guarantee the tests will pass. This is because of the unreliability of testing multi-threaded code. However, the tests are there to give you an idea of how to use the ProducerPool class.
+As highlighted in the article, there is only a 50% guarantee the tests will pass. This is because of the unreliability of testing multi-threaded code. However, the tests are there to give you an idea of how to use the ProducerPool class. I'll update this docs when I find a 100% guarantee.
 
 ## Usage
 - Clone the repository with `git clone git@github.com:lordsarcastic/kafka-python-producer-pool.git`
